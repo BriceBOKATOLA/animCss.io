@@ -1,0 +1,12 @@
+{
+    "name": "position_css",
+    "version": "1.0.0",
+    "description": "changement de position ",
+    "main": "index.html",
+    "scripts": {
+      "sass": "sass --watch ./assets/scss/styles.scss:./assets/css/styles.css",
+      "sass_comp": "sass --watch ./assets/scss/styles.scss:./assets/css/styles.css --style=compressed"
+    },
+    "author": "moi",
+    "license": "ISC"
+  }
